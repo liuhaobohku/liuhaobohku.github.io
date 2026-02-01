@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi (你好, Hallo, Bonjour, こんにちは, 안녕하세요) !"
+title: "Hi (你好, Ciao, Bonjour, こんにちは, 안녕하세요) !"
 author_profile: true
 redirect_from: 
   - /about/
