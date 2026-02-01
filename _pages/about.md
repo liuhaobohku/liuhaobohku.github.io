@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Haobo Liu(刘皓博), and I'm a first year PhD student from the University of Hong Kong, supervised by [Prof. Ngai Wong](https://www.eee.hku.hk/people/nwong/) and [Prof. Can Li](https://www.eee.hku.hk/people/canl/). My research interest includes AI Chips for Edge AI Applications, Computing-in-Memory Chips and Efficient Edge Architecture.
+My name is Haobo Liu(刘皓博), and I'm a first year PhD student from the University of Hong Kong, supervised by [Prof. Ngai Wong](https://www.eee.hku.hk/people/nwong/) and [Prof. Can Li](https://www.eee.hku.hk/people/canl/). My research interest includes AI Chips for Edge AI Applications, Computing-in-Memory and Efficient Edge AI Architecture.
 
 
 
