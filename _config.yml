@@ -23,7 +23,7 @@ repository               : "liuhaobohku/liuhaobohku.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Haobo Liu"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at the University of Hong Kong working on AI chips, computing-in-memory, and efficient edge AI architecture."
